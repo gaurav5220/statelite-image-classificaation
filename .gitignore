@@ -1,0 +1,9 @@
+/train/
+/valid/
+/test/
+/checkpoints/
+/change_out/
+/__pycache__/
+*.pth
+/.venv/
+/venv/
